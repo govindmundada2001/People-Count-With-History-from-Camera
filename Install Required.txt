@@ -1,0 +1,5 @@
+"Installing required packages:"
+pip install opencv-python-headless
+pip install numpy
+pip install ultralytics
+pip install sqlite
